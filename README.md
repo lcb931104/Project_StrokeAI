@@ -4,8 +4,8 @@
 
 StrokeAI 是一套以 Python 開發的 DWI 缺血性腦中風梗塞分析工具，支援載入 NIfTI 與 DICOM 影像，並透過 nnU-Net 自動進行中風梗塞病灶解剖定位與體積定量分析。
 系統提供直覺化 GUI，可切換 Axial、Sagittal、Coronal 與 3V 三視角顯示模式，協助使用者檢視不同方向的腦部切面。使用者也可開啟 Overlay 疊圖，並調整透明度，以比對原始影像與分割結果。 <br>
-介紹影片 : https://youtu.be/Ni56nUVgeC8
-原型 : 
+介紹影片 : https://youtu.be/Ni56nUVgeC8 <br>
+原型 : https://github.com/lcb931104/Project_stroke_location_quantification
 
 ---
 
