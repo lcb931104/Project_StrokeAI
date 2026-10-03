@@ -1,5 +1,7 @@
 ![](LOGO/LOGO.png)
 
+---
+
 StrokeAI 是一套以 Python 開發的腦部醫學影像分析工具，支援載入 NIfTI 與 DICOM 影像，並透過 nnU-Net 自動進行腦部區域分割與量化分析。
 系統提供直覺化 GUI，可切換 Axial、Sagittal、Coronal 與 3V 三視角顯示模式，協助使用者檢視不同方向的腦部切面。使用者也可開啟 Overlay 疊圖，並調整透明度，以比對原始影像與分割結果。
 
